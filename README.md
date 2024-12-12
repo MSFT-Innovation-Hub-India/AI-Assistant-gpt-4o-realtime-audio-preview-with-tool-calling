@@ -62,16 +62,14 @@ The tool calling here uses the above services to demonstrate how you can integra
     attlassian_api_key = ''
     attlassian_user_name = '<>'
     attlassian_url = 'https://<>.atlassian.net/'
+    grievance_project_key = 'CN'
+    grievance_type = 'Task'
+    grievance_project_name = 'ContosoGamingSupport'
     
     ai_search_url = "https://<>.search.windows.net"
     ai_search_key = ""
     ai_index_name = "contoso-gaming-index"
     ai_semantic_config = "contoso-gaming-config"
-
-    # The following is for the demo to Gameskraft
-    grievance_project_key = 'CN'
-    grievance_type = 'Task'
-    grievance_project_name = 'ContosoGamingSupport'
 
     az_db_server = "<>.database.windows.net" 
     az_db_database = "<>" 
