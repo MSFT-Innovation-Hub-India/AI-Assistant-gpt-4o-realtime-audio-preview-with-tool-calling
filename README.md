@@ -78,7 +78,10 @@ The tool calling here uses the above services to demonstrate how you can integra
     az_db_username = "<>" 
     az_db_password = "<>"
     ```
-
+6. Refer to the data folder in the repo to:
+- Use the sql script to create the database and populate the table with sample data
+- Use the FAQ sample txt files to create an Azure AI Search index
+- Create a Jira account for registering the grievance
 ## Usage
 1. Configure the application by editing the [config.toml](http://_vscodecontentref_/0) file as needed.
 2. Run the application:
