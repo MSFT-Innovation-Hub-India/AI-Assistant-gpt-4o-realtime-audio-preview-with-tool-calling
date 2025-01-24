@@ -1,4 +1,4 @@
-# Contoso Gaming Services - AI Assistant Demo - OpenAI Realtime Assistant
+# AI-Assistant gpt-4o-realtime-audio-preview with-tool-calling
 This demo application showcases an AI Assistant for Contoso Gaming Services with the following key features:
 - It uses the gpt-4o realtime audio API features that provides real time conversation experience with the AI Assistant for users.
 
